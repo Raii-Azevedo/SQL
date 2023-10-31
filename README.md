@@ -9,6 +9,11 @@
       - O DB tem um grande conhecimento de lógica de programação e responsávelpor criar rotinas e gerenciar os processos que são feitos dentro do próprio SGBD.
 
 ### Tópicos estudados:
-- [Introdução ao SQL](https://github.com/Raii-Azevedo/SQL/tree/main/INTRODUÇÃO%20AO%20SQL)
-- [Ordenando e Filtrando Dados](https://github.com/Raii-Azevedo/SQL/tree/main/ORDENANDO%20E%20FILTRANDO%20DADOS)
-- [Funções de Agregação](https://github.com/Raii-Azevedo/SQL/tree/main/FUNÇÕES%20DE%20AGREGAÇÃO)
+#### SQL SERVER
+- [1 Introdução ao SQL](https://github.com/Raii-Azevedo/SQL/tree/main/INTRODUÇÃO%20AO%20SQL)
+- [2 Ordenando e Filtrando Dados](https://github.com/Raii-Azevedo/SQL/tree/main/ORDENANDO%20E%20FILTRANDO%20DADOS)
+- [3 Agrupamentos]()
+- [4 Funções de Agregação](https://github.com/Raii-Azevedo/SQL/tree/main/FUNÇÕES%20DE%20AGREGAÇÃO)
+- [5 Joins no SQL]()
+- [6 Group By]()
+- [7 Variáveis]()
