@@ -1,1 +1,2 @@
-SELECT * FROM  employees;
+/*FUNÇÕES DE NÚME STRING E DATA*/
+
