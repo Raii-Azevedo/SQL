@@ -1,0 +1,7 @@
+## ORACLE
+
+CONTAS E PRIVILÉGIOS DE USUÁRIO
+Para acessar o BD é preciso criar um usário e fornecer os devidos privilégios (níveis) a ele.
+Usuário ADMIN ou SYS (permissão total) -> Seguido de outras hierarrquias com menores privilégios.
+
+Primeiramente CRIAR CONEXÃO
