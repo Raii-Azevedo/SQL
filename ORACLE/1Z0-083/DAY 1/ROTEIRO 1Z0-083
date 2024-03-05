@@ -1,0 +1,245 @@
+ROTEIRO CERTIFICAÇÃO ORACLE
+
+    Creating CDBs and Regular PDBs - Oracle Database: Managing Multitenant Architecture Ed 1
+
+        Configure and create a CDB
+
+        Create a new PDB from the CDB seed
+
+        Explore the structure of PDBs
+
+    Manage CDBs and PDBs - Oracle Database: Managing Multitenant Architecture Ed 1
+
+        Manage PDB service names and connections
+
+        Manage startup, shutdown and availability of CDBs and PDBs
+
+        Change the different modes and settings of PDBs
+
+        Evaluate the impact of parameter value changes
+
+        Performance management in CDBs and PDBs
+
+        Control CDB and PDB resource usage with the Oracle Resource Manager
+
+    Backup and Duplicate - Oracle Database: Managing Multitenant Architecture Ed 1
+
+        Perform Backup and Recover CDBs and PDBs
+
+        Duplicate an active PDB
+
+        Duplicate a Database
+
+    Upgrading and Transporting CDBs and Regular PDBs - Oracle Database: Managing Multitenant Architecture Ed 1
+
+        Upgrade an Oracle Database
+
+        Transport Data
+
+    Manage Application PDBs - Oracle Database: Managing Multitenant Architecture Ed 1
+
+        Explain the purpose of application root and application seed
+
+        Define and create application PDBs
+
+        Install, upgrade and Patch applications
+
+        Create and administer Application PDBS
+
+        Clone PDBs and Application containers
+
+        Plug and unplug operations with PDBs and application containers
+
+        Comparing Local Undo Mode and Shared Undo Mode
+
+    Manage Security in Multitenant databases - Oracle Database: Managing Multitenant Architecture Ed 1
+
+        Manage Security in Multitenant databases
+
+        Manage PDB lockdown profiles
+
+        Audit Users in CDBs and PDBs
+
+        Manage other types of policies in application containers
+
+    Recovery and Flashback - Oracle Database: Managing Multitenant Architecture Ed 1
+
+        Restore and Recovering Databases with RMAN
+
+        Perform CDB and PDB flashback
+
+    Backup Strategies and Terminology - Oracle Database: Backup and Recovery Workshop
+
+        Perform Full and Incremental Backups and Recoveries
+
+        Compress and Encrypt RMAN Backups
+
+        Use a media manager
+
+        Create multi-section backups of very large files
+
+        Create duplexed backup sets
+
+        Create archival backups
+
+        Backup of recovery files
+
+        Backup non database files
+
+        Back up ASM meta data
+
+
+    Restore and Recovery Concepts - Oracle Database: Backup and Recovery Workshop
+
+        Employ the best Oracle Database recovery technology for your failure situation
+
+        Describe and use Recovery technology for Crash, Complete, and Point-in-time recovry
+
+
+    Using Flashback Technologies - Oracle Database: Backup and Recovery Workshop
+
+        Configure your Database to support Flashback
+
+        Perform flashback operations
+
+
+    Duplicating a Database - Oracle Database: Backup and Recovery Workshop
+
+        Duplicate Databases
+
+    Configuring and Using RMAN - Oracle Database: Backup and Recovery Workshop
+
+        Configure RMAN and the Database for Recoverability
+
+        Configureand Using an RMAN recovery catalog
+
+    Diagnosing Failures - Oracle Database: Backup and Recovery Workshop
+
+        Detect and repair database and database block corruption
+
+        Diagnosing Database Issues
+
+    Performing Recovery - Oracle Database: Backup and Recovery Workshop
+
+        Restore and Recovering Databases with RMAN
+
+        Perform Non RMAN database recovery
+
+    Transporting Data - Oracle Database: Backup and Recovery Workshop
+
+        Transport Data
+
+    RMAN Troubleshooting and Tuning - Oracle Database: Backup and Recovery Workshop
+
+        Interpret the RMAN message output
+
+        Diagnose RMAN performance issues
+
+    Install Grid Infrastructure and Oracle Database - Oracle Database: Deploy, Patch and Upgrade Workshop
+
+        Install Grid Infrastructure for a Standalone server
+
+        Install Oracle Database software
+
+
+    Patching Grid Infrastructure and Oracle Database - Oracle Database: Deploy, Patch and Upgrade Workshop
+
+        Patch Grid Infrastructure and Oracle Database
+
+
+    Upgrading to Oracle Grid Infrastructure - Oracle Database: Deploy, Patch and Upgrade Workshop
+
+        Upgrade Oracle Grid Infrastructure
+
+
+    Oracle Database 18c: New Features - Oracle Database: Deploy, Patch and Upgrade Workshop
+
+        Image and RPM based Database Installation
+
+    Creating an Oracle Database by using DBCA - Oracle Database: Deploy, Patch and Upgrade Workshop
+
+        Create, Delete and Configure Databases using DBCA
+
+    Oracle Restart - Oracle Database: Deploy, Patch and Upgrade Workshop
+
+        Configure and use Oracle Restart to manage components
+
+    Upgrade the Oracle Database - Oracle Database: Deploy, Patch and Upgrade Workshop
+
+        Plan for Upgrading an Oracle Database
+
+        Upgrade an Oracle Database
+
+        Perform Post-Upgrade tasks
+
+    Install Grid Infrastructure for a Standalone server - Oracle Database: Deploy, Patch and Upgrade Workshop
+
+        Rapid Home Provisioning
+
+    Using General Overall Database Enhancements - Oracle Database 19c: New Features for Administrators
+
+        Install Oracle Database software
+
+        Create, Delete and Configure Databases using DBCA
+
+        Creating CDBs and Regular PDBs
+
+        Use Miscellaneaous 19c New Features
+
+    Using Availability Enhancements - Oracle Database 19c: New Features for Administrators
+
+        Use an RMAN recovery catalog
+
+        Use Flashback Database
+
+    Using Diagnosibility Enhancements - Oracle Database 19c: New Features for Administrators
+
+        Use new Diagnoseability Features
+
+    Monitoring and Tuning Database Performance - Oracle Database: Administration Workshop
+
+        Managing Memory Components
+
+        Understanding The Automatic Workload Repository (AWR)
+
+        Understanding The Advisory Framework
+
+        Monitoring Wait Events, Sessions, and Services
+
+        Managing Metric Thresholds and Alerts
+
+        Understanding and Using The Performance Tuning Methodology
+
+        Performing Performance Planning
+
+        Understanding The Automatic Database Diagnostic Monitor (ADDM)
+
+    Tuning SQL Statements - Oracle Database: Administration Workshop
+
+        Understanding The Oracle Optimizer
+
+        Using The SQL Tuning Advisor
+
+        Managing Optimizer Statistics
+
+        Using The SQL Access Advisor
+
+        Understanding The SQL Tuning Process
+
+    O que você aprenderá
+
+        Become Oracle Certified Professional on Oracle Database 19c efficiently and quickly
+        Upgrade your OCP 10g/11g certifications to OCP 19c
+        Learn all new features of Oracle Database 19c in areas of memory management, multi-tenancy, upgrade, patching and more
+        Enhance Oracle Database knowledge to leverage newest and best of the database features
+        Get benefitted by detailed explanation of the answers
+
+    Há algum requisito ou pré-requisito para o curso?
+
+        Working knowledge of Oracle Database 10g or 11g is needed
+
+    Para quem é este curso:
+
+        Oracle Database Administrators looking to learn about new features in Oracle Database 19c
+        Oracle Database Administrators looking to upgrade their OCP 10g/11g certification to OCP 19c
+        Database architects, designers and analysts
