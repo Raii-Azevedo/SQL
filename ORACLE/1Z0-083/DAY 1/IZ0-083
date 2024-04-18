@@ -1,0 +1,13 @@
+PASSO A PASSO IMERSÃO ORACLE IZO-083
+
+1. login: oracle
+2. senha: dbaocm
+
+Loga com oracle
+lsnrctl start
+sqlplus / as sysdba
+sql>startup
+show pdbs
+sql>ALTER SESSION SET CONTAINER=pdb1;
+sql>SELECT value FROM v$parameter WHERE name = 'service_names';
+

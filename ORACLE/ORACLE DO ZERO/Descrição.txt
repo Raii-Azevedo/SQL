@@ -1,0 +1,28 @@
+Seja bem vindo ao primeiro curso de DBA Oracle da Udemy! Aqui aprenderemos Oracle do zero e eu falarei MUITO com você sobre a arquitetura do banco de dados, algo que é muito negligenciado na maioria dos cursos, mas extremamente importante para que você não faça as coisas mecanicamente! Gosta de entender os porquês? Então você está no lugar certo! Veremos as estruturas físicas e lógicas, e com isso você aprenderá e entenderá muitas coisas mais avançadas! Criaremos usuários, veremos niveis de isolamento, flashback, sinônimos e muito mais!
+
+Espero você nas aulas!
+
+
+
+O que você aprenderá
+Criar, dimensionar e gerenciar tablespaces
+Estruturas Físicas
+Estruturas Lógicas
+Estruturas de memória PGA e SGA
+Processos de Background
+Flashback
+Public e Private synonyms
+Deferred Keys
+Criação de usuário e permissionamento
+SQL Loader
+E um conteúdo muito rico, capaz de fazer você andar com as próprias pernas e iniciar com o Banco de Dados Oracle
+Instalação do Banco de Dados em Linux e Windows
+Há algum requisito ou pré-requisito para o curso?
+Linguagem SQL
+O meu curso de Bancos de Dados Relacionais é uma excelente base, porém não é obrigatório
+Conhecimentos em Linux e Windows ajudam muito
+Conhecimentos de Bancos de Dados em geral
+Para quem é este curso:
+Estudantes de bancos de dados que queiram ingressar no mercado Oracle
+Universitários
+Desenvolvedores que queiram aprender Oracle
